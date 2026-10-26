@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+:root{
+  --header: #0d1117;
+  --describe: #3711BF;
+  --text: #ffffff;
+  --black: #000000;
+  --gray: #969595;
+}
+
+.App{
+  background-color: var(--header);
+  height: 100vh;
+}
